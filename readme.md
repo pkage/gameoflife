@@ -1,6 +1,10 @@
 # conways game of life
 ---
 
+## demo 
+
+![demo gif](https://raw.githubusercontent.com/quadnix/gameoflife/master/demo.gif)
+
 ## compiling
 
 install [sfml](http://sfml-dev.org/), then `make`.
