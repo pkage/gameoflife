@@ -12,3 +12,5 @@ key | result
 `space` | step
 `r` | randomize data
 `c` | enable continuous mode
+
+when not in continuous mode, click to toggle blocks
