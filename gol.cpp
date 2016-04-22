@@ -18,7 +18,7 @@ void render(sf::RenderWindow &window, vector< vector<bool> > &arr);
 void handleInput(sf::RenderWindow &window, vector< vector<bool> > &arr);
 
 int main() {
-	sf::RenderWindow window(sf::VideoMode(800, 800), "SFML works!");
+	sf::RenderWindow window(sf::VideoMode(800, 800), "kage's GOL");
 	sf::RectangleShape shape(sf::Vector2f(10,10));
 	vector< vector<bool> > primary = inflate(mapheight, mapwidth), cache = inflate(mapheight, mapwidth);
 	srand((int)time_t(0));
